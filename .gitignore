@@ -4,3 +4,4 @@ coverage
 .env
 prisma/schema.prisma
 prisma/models
+Docs/ErrorFix.md
